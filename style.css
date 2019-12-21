@@ -54,11 +54,17 @@ margin: 40px;
 #footer {
   bottom: 0px;
   width: 100%;
-  position: absolute;
+  position: fixed;
   height: 60px;
   background-color: #fff;
   align-content: center;
 }
+
+.footer-block {
+  text-align: center;
+  padding: 15px;
+}
+
 .container{
   align-content: center;
 }
